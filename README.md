@@ -1,7 +1,7 @@
 # TicTacToe
 This Tic Tac Toe game was developed during The Andela Learning Community (ALC 2.0) Take A Climb Challenge
 
-THE APK is Hosted in the folder APK FILE
+THE APK file is Hosted with the name Tic_Tac_Toe.apk
 
 The game has the following features
 
