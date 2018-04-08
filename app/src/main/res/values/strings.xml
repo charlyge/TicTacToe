@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="reset_board">Reset Board</string>
+    <string name="_0">0</string>
+    <string name="computer">Computer</string>
+    <string name="x">X</string>
+    <string name="choose">Choose</string>
+    <string name="itsADraw">Its a Draw !!!!</string>
+    <string name="play_vs_computer">Play Vs Computer</string>
+    <string name="play_vs_human">Player1 Vs Player2</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="ok">OK</string>
+    <string name="wins">WINS !!!!!</string>
+    <string name="computerWins">Computer WINS !!!!!</string>
+    <string name="ComputerWon">Computer Wins You lost  !!!!!</string>
+</resources>
